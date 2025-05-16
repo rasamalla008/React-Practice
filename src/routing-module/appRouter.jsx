@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router";
+import { BrowserRouter } from 'react-router-dom';
 import LandingPage from "../components/Landingpage";
 import Profile from "../components/profile";
 import Home from "../components/home";
